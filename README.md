@@ -1,5 +1,6 @@
 # CS3460
 # Data Structures assignments
+A selection of various Data Structures assignments that showcases my knowledge of various algorithms. This class was taught by Dr. Ragu of the Appalachian State University Computer Science Department. 
 
 
 ### IntSet: 
